@@ -229,6 +229,46 @@ void nLetterTriangle(int n)
         cout << endl;
     }
 }
+void pt19(int n)
+{
+    // Write your code here.
+    int sp = 0;
+    for (int i = n; i >= 1; i--)
+    {
+        for (int j = 1; j <= i; j++)
+        {
+            cout << "* ";
+        }
+        for (int j = 1; j <= sp; j++)
+        {
+            cout << " ";
+        }
+        for (int j = 1; j <= i; j++)
+        {
+            cout << "* ";
+        }
+        cout << endl;
+        sp += 2;
+    }
+    sp = 2 * (n - 1);
+    for (int i = 1; i <= n; i++)
+    {
+        for (int j = 1; j <= i; j++)
+        {
+            cout << "* ";
+        }
+        for (int j = 1; j <= sp; j++)
+        {
+            cout << " ";
+        }
+        for (int j = 1; j <= i; j++)
+        {
+            cout << "* ";
+        }
+        cout << endl;
+        sp -= 2;
+    }
+}
 
 int main()
 {
@@ -261,6 +301,8 @@ int main()
     pattern12(n);
     cout << "\n";
     nLetterTriangle(n);
+    cout << "\n";
+    pt19(n);
     cout << "\n";
     return 0;
 }
