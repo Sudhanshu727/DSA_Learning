@@ -203,6 +203,32 @@ void numberCrown(int n)
         sp = sp - 2;
     }
 }
+void pattern12(int n)
+{
+    // Write your code here.
+    int x = 1;
+    for (int i = 1; i <= n; i++)
+    {
+        for (int j = 1; j <= i; j++)
+        {
+            cout << x << " ";
+            x++;
+        }
+        cout << endl;
+    }
+}
+void nLetterTriangle(int n)
+{
+    // Write your code here.
+    for (char i = 'A'; i < 'A' + n; i++)
+    {
+        for (char j = 'A'; j <= i; j++)
+        {
+            cout << j << " ";
+        }
+        cout << endl;
+    }
+}
 
 int main()
 {
@@ -231,6 +257,10 @@ int main()
     nBinaryTriangle(n);
     cout << "\n";
     numberCrown(n);
+    cout << "\n";
+    pattern12(n);
+    cout << "\n";
+    nLetterTriangle(n);
     cout << "\n";
     return 0;
 }
