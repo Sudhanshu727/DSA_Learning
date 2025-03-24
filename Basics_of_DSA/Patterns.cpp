@@ -237,7 +237,7 @@ void pt19(int n)
     {
         for (int j = 1; j <= i; j++)
         {
-            cout << "* ";
+            cout << "*";
         }
         for (int j = 1; j <= sp; j++)
         {
@@ -245,7 +245,7 @@ void pt19(int n)
         }
         for (int j = 1; j <= i; j++)
         {
-            cout << "* ";
+            cout << "*";
         }
         cout << endl;
         sp += 2;
@@ -255,7 +255,7 @@ void pt19(int n)
     {
         for (int j = 1; j <= i; j++)
         {
-            cout << "* ";
+            cout << "*";
         }
         for (int j = 1; j <= sp; j++)
         {
@@ -263,10 +263,51 @@ void pt19(int n)
         }
         for (int j = 1; j <= i; j++)
         {
-            cout << "* ";
+            cout << "*";
         }
         cout << endl;
         sp -= 2;
+    }
+}
+void pt15(int n)
+{
+    // Write your code here.
+    for (char i = 'A' + n - 1; i >= 'A'; i--)
+    {
+        for (char j = 'A'; j <= i; j++)
+        {
+            cout << j << " ";
+        }
+        cout << endl;
+    }
+}
+void alphaRamp(int n)
+{
+    // Write your code here.
+    for (char i = 'A'; i < 'A' + n; i++)
+    {
+        for (char j = 'A'; j <= i; j++)
+        {
+            cout << i << " ";
+        }
+        cout << endl;
+    }
+}
+void pt21(int n)
+{
+    // Write your code here.
+    for (int i = 1; i <= n; i++)
+    {
+        for (int j = 1; j <= n; j++)
+        {
+            if (i == 1 || i == n || j == 1 || j == n)
+            {
+                cout << "*";
+            }
+            else
+                cout << " ";
+        }
+        cout << endl;
     }
 }
 
@@ -303,6 +344,12 @@ int main()
     nLetterTriangle(n);
     cout << "\n";
     pt19(n);
+    cout << "\n";
+    pt15(n);
+    cout << "\n";
+    alphaRamp(n);
+    cout << "\n";
+    pt21(n);
     cout << "\n";
     return 0;
 }
