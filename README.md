@@ -74,6 +74,7 @@ For any queries or discussions, feel free to connect:
 ## Array
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0119-pascals-triangle-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
@@ -112,4 +113,8 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0207-course-schedule) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
