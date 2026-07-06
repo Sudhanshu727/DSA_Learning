@@ -75,6 +75,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0119-pascals-triangle-ii) |
+| [1288-remove-covered-intervals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1833-maximum-ice-cream-bars) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
@@ -84,6 +85,7 @@ For any queries or discussions, feel free to connect:
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
