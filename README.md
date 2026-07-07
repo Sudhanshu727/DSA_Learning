@@ -143,4 +143,8 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
