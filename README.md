@@ -77,6 +77,7 @@ For any queries or discussions, feel free to connect:
 | [0119-pascals-triangle-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0119-pascals-triangle-ii) |
 | [1288-remove-covered-intervals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1833-maximum-ice-cream-bars) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
 |  |
@@ -97,6 +98,7 @@ For any queries or discussions, feel free to connect:
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
@@ -115,6 +117,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0207-course-schedule) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -153,4 +156,12 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
