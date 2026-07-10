@@ -75,6 +75,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0119-pascals-triangle-ii) |
+| [0503-next-greater-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0503-next-greater-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1833-maximum-ice-cream-bars) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -168,8 +169,13 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
