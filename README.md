@@ -79,6 +79,7 @@ For any queries or discussions, feel free to connect:
 | [0503-next-greater-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0503-next-greater-element-ii) |
 | [0910-smallest-range-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0910-smallest-range-ii) |
 | [0948-bag-of-tokens](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0948-bag-of-tokens) |
+| [1046-last-stone-weight](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1288-remove-covered-intervals) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1833-maximum-ice-cream-bars) |
@@ -200,6 +201,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
