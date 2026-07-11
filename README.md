@@ -76,6 +76,7 @@ For any queries or discussions, feel free to connect:
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0119-pascals-triangle-ii) |
 | [0503-next-greater-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0503-next-greater-element-ii) |
+| [0910-smallest-range-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0910-smallest-range-ii) |
 | [0948-bag-of-tokens](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1288-remove-covered-intervals) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -85,12 +86,14 @@ For any queries or discussions, feel free to connect:
 ## Greedy
 |  |
 | ------- |
+| [0910-smallest-range-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0910-smallest-range-ii) |
 | [0948-bag-of-tokens](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0948-bag-of-tokens) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
 | ------- |
+| [0910-smallest-range-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0910-smallest-range-ii) |
 | [0948-bag-of-tokens](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1833-maximum-ice-cream-bars) |
@@ -159,6 +162,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0070-climbing-stairs) |
+| [0910-smallest-range-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0910-smallest-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Memoization
 |  |
