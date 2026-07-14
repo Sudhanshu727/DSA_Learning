@@ -79,6 +79,7 @@ For any queries or discussions, feel free to connect:
 | [0221-maximal-square](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0221-maximal-square) |
 | [0503-next-greater-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0561-array-partition) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0692-top-k-frequent-words) |
 | [0910-smallest-range-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0910-smallest-range-ii) |
 | [0948-bag-of-tokens](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0948-bag-of-tokens) |
@@ -96,6 +97,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0561-array-partition) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0910-smallest-range-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0910-smallest-range-ii) |
 | [0948-bag-of-tokens](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1029-two-city-scheduling) |
@@ -128,6 +130,7 @@ For any queries or discussions, feel free to connect:
 ## Hash Table
 |  |
 | ------- |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -224,6 +227,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0215-kth-largest-element-in-an-array) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1046-last-stone-weight) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
