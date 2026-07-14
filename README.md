@@ -90,6 +90,7 @@ For any queries or discussions, feel free to connect:
 | [1402-reducing-dishes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1402-reducing-dishes) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1642-furthest-building-you-can-reach](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1642-furthest-building-you-can-reach) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1833-maximum-ice-cream-bars) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -106,6 +107,7 @@ For any queries or discussions, feel free to connect:
 | [1402-reducing-dishes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1402-reducing-dishes) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1642-furthest-building-you-can-reach](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1642-furthest-building-you-can-reach) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
@@ -235,6 +237,7 @@ For any queries or discussions, feel free to connect:
 | [0692-top-k-frequent-words](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1046-last-stone-weight) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1642-furthest-building-you-can-reach](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1642-furthest-building-you-can-reach) |
 ## Quickselect
 |  |
 | ------- |
