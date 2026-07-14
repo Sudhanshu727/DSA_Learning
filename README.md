@@ -87,6 +87,7 @@ For any queries or discussions, feel free to connect:
 | [1046-last-stone-weight](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1288-remove-covered-intervals) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1402-reducing-dishes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1402-reducing-dishes) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1710-maximum-units-on-a-truck) |
@@ -102,6 +103,7 @@ For any queries or discussions, feel free to connect:
 | [0948-bag-of-tokens](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1029-two-city-scheduling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1402-reducing-dishes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1402-reducing-dishes) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1710-maximum-units-on-a-truck) |
@@ -117,6 +119,7 @@ For any queries or discussions, feel free to connect:
 | [1029-two-city-scheduling](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1288-remove-covered-intervals) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1402-reducing-dishes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1402-reducing-dishes) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1833-maximum-ice-cream-bars) |
@@ -166,6 +169,7 @@ For any queries or discussions, feel free to connect:
 | [0070-climbing-stairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0119-pascals-triangle-ii) |
 | [0221-maximal-square](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0221-maximal-square) |
+| [1402-reducing-dishes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1402-reducing-dishes) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Divide and Conquer
 |  |
