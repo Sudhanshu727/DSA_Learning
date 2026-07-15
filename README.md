@@ -207,6 +207,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0070-climbing-stairs) |
+| [0633-sum-of-square-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0633-sum-of-square-numbers) |
 | [0910-smallest-range-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0910-smallest-range-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -217,6 +218,7 @@ For any queries or discussions, feel free to connect:
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0633-sum-of-square-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -238,6 +240,7 @@ For any queries or discussions, feel free to connect:
 ## Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0633-sum-of-square-numbers) |
 | [0948-bag-of-tokens](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0948-bag-of-tokens) |
 ## Heap (Priority Queue)
 |  |
