@@ -9,7 +9,7 @@ public:
             prefixGcd[i]= gcd(mx, nums[i]);
         }
         sort(prefixGcd.begin(), prefixGcd.end());
-        int sum=0;
+        long sum=0;
         for(int i=0, j=n-1; i<n/2; i++, j--){
             sum+= gcd(prefixGcd[i], prefixGcd[j]);
         }
