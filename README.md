@@ -81,6 +81,7 @@ For any queries or discussions, feel free to connect:
 | [0213-house-robber-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0221-maximal-square) |
+| [0287-find-the-duplicate-number](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0561-array-partition) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -239,6 +240,7 @@ For any queries or discussions, feel free to connect:
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0633-sum-of-square-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -267,6 +269,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0011-container-with-most-water) |
+| [0287-find-the-duplicate-number](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0633-sum-of-square-numbers) |
 | [0948-bag-of-tokens](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0948-bag-of-tokens) |
@@ -325,4 +328,8 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
