@@ -75,6 +75,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0011-container-with-most-water) |
+| [0056-merge-intervals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0057-insert-interval) |
 | [0119-pascals-triangle-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0135-candy) |
@@ -125,6 +126,7 @@ For any queries or discussions, feel free to connect:
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0561-array-partition) |
