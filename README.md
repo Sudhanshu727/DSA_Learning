@@ -95,6 +95,7 @@ For any queries or discussions, feel free to connect:
 | [1046-last-stone-weight](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1288-remove-covered-intervals) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1402-reducing-dishes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1402-reducing-dishes) |
@@ -122,6 +123,7 @@ For any queries or discussions, feel free to connect:
 | [0948-bag-of-tokens](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1402-reducing-dishes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1402-reducing-dishes) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -209,6 +211,7 @@ For any queries or discussions, feel free to connect:
 | [0119-pascals-triangle-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0119-pascals-triangle-ii) |
 | [0213-house-robber-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0221-maximal-square) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1402-reducing-dishes) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Divide and Conquer
