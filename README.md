@@ -164,6 +164,7 @@ For any queries or discussions, feel free to connect:
 ## Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0187-repeated-dna-sequences) |
 | [0451-sort-characters-by-frequency](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0567-permutation-in-string) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -177,6 +178,7 @@ For any queries or discussions, feel free to connect:
 ## String
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0187-repeated-dna-sequences) |
 | [0316-remove-duplicate-letters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0451-sort-characters-by-frequency) |
@@ -241,6 +243,7 @@ For any queries or discussions, feel free to connect:
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0187-repeated-dna-sequences) |
 | [0567-permutation-in-string](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0567-permutation-in-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -361,9 +364,18 @@ For any queries or discussions, feel free to connect:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0287-find-the-duplicate-number) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0729-my-calendar-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
