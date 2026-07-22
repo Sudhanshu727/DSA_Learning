@@ -90,6 +90,7 @@ For any queries or discussions, feel free to connect:
 | [0561-array-partition](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0561-array-partition) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0692-top-k-frequent-words) |
+| [0713-subarray-product-less-than-k](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0729-my-calendar-i) |
 | [0904-fruit-into-baskets](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0904-fruit-into-baskets) |
@@ -240,6 +241,7 @@ For any queries or discussions, feel free to connect:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0304-range-sum-query-2d-immutable) |
+| [0713-subarray-product-less-than-k](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Sudhanshu727/DSA_Learning/tree/master/2270-number-of-ways-to-split-array) |
@@ -251,6 +253,7 @@ For any queries or discussions, feel free to connect:
 | [0187-repeated-dna-sequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0567-permutation-in-string) |
+| [0713-subarray-product-less-than-k](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -275,6 +278,7 @@ For any queries or discussions, feel free to connect:
 | [0209-minimum-size-subarray-sum](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0633-sum-of-square-numbers) |
+| [0713-subarray-product-less-than-k](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0729-my-calendar-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3532-path-existence-queries-in-a-graph-i) |
