@@ -76,6 +76,7 @@ For any queries or discussions, feel free to connect:
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0057-insert-interval) |
 | [0119-pascals-triangle-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0119-pascals-triangle-ii) |
@@ -267,6 +268,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0070-climbing-stairs) |
 | [0633-sum-of-square-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0633-sum-of-square-numbers) |
 | [0910-smallest-range-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0910-smallest-range-ii) |
@@ -350,6 +352,7 @@ For any queries or discussions, feel free to connect:
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0048-rotate-image) |
 | [0221-maximal-square](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0304-range-sum-query-2d-immutable) |
 | [1260-shift-2d-grid](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1260-shift-2d-grid) |
