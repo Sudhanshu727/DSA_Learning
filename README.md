@@ -110,6 +110,7 @@ For any queries or discussions, feel free to connect:
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1642-furthest-building-you-can-reach](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1642-furthest-building-you-can-reach) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1710-maximum-units-on-a-truck) |
+| [1711-count-good-meals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1711-count-good-meals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1833-maximum-ice-cream-bars) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Sudhanshu727/DSA_Learning/tree/master/2270-number-of-ways-to-split-array) |
@@ -180,6 +181,7 @@ For any queries or discussions, feel free to connect:
 | [0904-fruit-into-baskets](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1711-count-good-meals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1711-count-good-meals) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3739-count-subarrays-with-majority-element-ii) |
