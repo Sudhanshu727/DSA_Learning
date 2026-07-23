@@ -377,11 +377,13 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0024-swap-nodes-in-pairs) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0024-swap-nodes-in-pairs) |
 ## Combinatorics
 |  |
 | ------- |
