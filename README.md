@@ -96,6 +96,7 @@ For any queries or discussions, feel free to connect:
 | [0904-fruit-into-baskets](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0904-fruit-into-baskets) |
 | [0910-smallest-range-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0910-smallest-range-ii) |
 | [0948-bag-of-tokens](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0948-bag-of-tokens) |
+| [0986-interval-list-intersections](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0986-interval-list-intersections) |
 | [1029-two-city-scheduling](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1260-shift-2d-grid) |
@@ -316,6 +317,7 @@ For any queries or discussions, feel free to connect:
 | [0567-permutation-in-string](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0633-sum-of-square-numbers) |
 | [0948-bag-of-tokens](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0948-bag-of-tokens) |
+| [0986-interval-list-intersections](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0986-interval-list-intersections) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
@@ -395,4 +397,8 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0187-repeated-dna-sequences) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
