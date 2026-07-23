@@ -75,6 +75,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0057-insert-interval) |
 | [0119-pascals-triangle-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0119-pascals-triangle-ii) |
@@ -217,6 +218,7 @@ For any queries or discussions, feel free to connect:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0119-pascals-triangle-ii) |
 | [0213-house-robber-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0213-house-robber-ii) |
@@ -292,6 +294,7 @@ For any queries or discussions, feel free to connect:
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0503-next-greater-element-ii) |
@@ -305,6 +308,7 @@ For any queries or discussions, feel free to connect:
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -312,6 +316,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0567-permutation-in-string) |
