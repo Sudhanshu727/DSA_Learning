@@ -112,6 +112,7 @@ For any queries or discussions, feel free to connect:
 | [1991-find-the-middle-index-in-array](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Sudhanshu727/DSA_Learning/tree/master/2270-number-of-ways-to-split-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -265,6 +266,7 @@ For any queries or discussions, feel free to connect:
 | [0633-sum-of-square-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0633-sum-of-square-numbers) |
 | [0910-smallest-range-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0910-smallest-range-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -380,6 +382,7 @@ For any queries or discussions, feel free to connect:
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0287-find-the-duplicate-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Ordered Set
 |  |
 | ------- |
