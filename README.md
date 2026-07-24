@@ -97,6 +97,7 @@ For any queries or discussions, feel free to connect:
 | [0713-subarray-product-less-than-k](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0729-my-calendar-i) |
+| [0739-daily-temperatures](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0904-fruit-into-baskets) |
 | [0910-smallest-range-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0910-smallest-range-ii) |
 | [0948-bag-of-tokens](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0948-bag-of-tokens) |
@@ -314,6 +315,7 @@ For any queries or discussions, feel free to connect:
 | [0155-min-stack](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
@@ -327,6 +329,7 @@ For any queries or discussions, feel free to connect:
 | [0042-trapping-rain-water](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Two Pointers
 |  |
