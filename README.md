@@ -213,6 +213,7 @@ For any queries or discussions, feel free to connect:
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0098-validate-binary-search-tree) |
 | [0207-course-schedule](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
@@ -436,4 +437,16 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0986-interval-list-intersections) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
