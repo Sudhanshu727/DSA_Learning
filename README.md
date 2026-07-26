@@ -91,6 +91,7 @@ For any queries or discussions, feel free to connect:
 | [0485-max-consecutive-ones](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0692-top-k-frequent-words) |
@@ -154,6 +155,7 @@ For any queries or discussions, feel free to connect:
 | [0215-kth-largest-element-in-an-array](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0767-reorganize-string) |
@@ -284,6 +286,7 @@ For any queries or discussions, feel free to connect:
 | [0002-add-two-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0633-sum-of-square-numbers) |
 | [0910-smallest-range-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0910-smallest-range-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
