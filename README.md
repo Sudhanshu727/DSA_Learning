@@ -82,6 +82,7 @@ For any queries or discussions, feel free to connect:
 | [0119-pascals-triangle-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0215-kth-largest-element-in-an-array) |
@@ -184,6 +185,7 @@ For any queries or discussions, feel free to connect:
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0187-repeated-dna-sequences) |
 | [0451-sort-characters-by-frequency](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0567-permutation-in-string) |
@@ -200,6 +202,7 @@ For any queries or discussions, feel free to connect:
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0187-repeated-dna-sequences) |
 | [0316-remove-duplicate-letters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0345-reverse-vowels-of-a-string) |
@@ -238,6 +241,7 @@ For any queries or discussions, feel free to connect:
 | [0070-climbing-stairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0300-longest-increasing-subsequence) |
@@ -302,6 +306,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0139-word-break) |
 ## Binary Search
 |  |
 | ------- |
@@ -387,6 +392,7 @@ For any queries or discussions, feel free to connect:
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
