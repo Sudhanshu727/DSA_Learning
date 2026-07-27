@@ -87,6 +87,7 @@ For any queries or discussions, feel free to connect:
 | [0215-kth-largest-element-in-an-array](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0221-maximal-square) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0304-range-sum-query-2d-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0503-next-greater-element-ii) |
@@ -239,6 +240,7 @@ For any queries or discussions, feel free to connect:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0338-counting-bits) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1402-reducing-dishes) |
@@ -305,6 +307,7 @@ For any queries or discussions, feel free to connect:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0300-longest-increasing-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0713-subarray-product-less-than-k) |
