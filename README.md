@@ -173,6 +173,7 @@ For any queries or discussions, feel free to connect:
 | [1710-maximum-units-on-a-truck](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
@@ -185,6 +186,7 @@ For any queries or discussions, feel free to connect:
 | [1189-maximum-number-of-balloons](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1833-maximum-ice-cream-bars) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -219,6 +221,7 @@ For any queries or discussions, feel free to connect:
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Sudhanshu727/DSA_Learning/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Depth-First Search
 |  |
 | ------- |
