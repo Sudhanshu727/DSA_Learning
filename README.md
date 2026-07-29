@@ -185,6 +185,7 @@ For any queries or discussions, feel free to connect:
 | [0692-top-k-frequent-words](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1189-maximum-number-of-balloons) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1833-maximum-ice-cream-bars) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -202,6 +203,7 @@ For any queries or discussions, feel free to connect:
 | [1189-maximum-number-of-balloons](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1711-count-good-meals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1711-count-good-meals) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -221,6 +223,7 @@ For any queries or discussions, feel free to connect:
 | [1189-maximum-number-of-balloons](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Sudhanshu727/DSA_Learning/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3517-smallest-palindromic-rearrangement-i) |
