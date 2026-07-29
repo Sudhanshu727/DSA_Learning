@@ -305,6 +305,7 @@ For any queries or discussions, feel free to connect:
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0633-sum-of-square-numbers) |
 | [0910-smallest-range-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0910-smallest-range-ii) |
+| [1922-count-good-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1922-count-good-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -435,6 +436,7 @@ For any queries or discussions, feel free to connect:
 | [0002-add-two-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0025-reverse-nodes-in-k-group) |
+| [1922-count-good-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1922-count-good-numbers) |
 ## Combinatorics
 |  |
 | ------- |
