@@ -153,6 +153,7 @@ For any queries or discussions, feel free to connect:
 | [1710-maximum-units-on-a-truck](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -225,6 +226,7 @@ For any queries or discussions, feel free to connect:
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Sudhanshu727/DSA_Learning/tree/master/2559-count-vowel-strings-in-ranges) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Depth-First Search
@@ -309,6 +311,7 @@ For any queries or discussions, feel free to connect:
 | [0633-sum-of-square-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0633-sum-of-square-numbers) |
 | [0910-smallest-range-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0910-smallest-range-ii) |
 | [1922-count-good-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1922-count-good-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3514-number-of-unique-xor-triplets-ii) |
