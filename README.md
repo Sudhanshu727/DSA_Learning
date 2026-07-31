@@ -154,6 +154,7 @@ For any queries or discussions, feel free to connect:
 | [1833-maximum-ice-cream-bars](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -175,6 +176,7 @@ For any queries or discussions, feel free to connect:
 | [1710-maximum-units-on-a-truck](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -188,6 +190,7 @@ For any queries or discussions, feel free to connect:
 | [1189-maximum-number-of-balloons](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1833-maximum-ice-cream-bars) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -205,6 +208,7 @@ For any queries or discussions, feel free to connect:
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1711-count-good-meals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1711-count-good-meals) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -227,6 +231,7 @@ For any queries or discussions, feel free to connect:
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Sudhanshu727/DSA_Learning/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Depth-First Search
