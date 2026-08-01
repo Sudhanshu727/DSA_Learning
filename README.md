@@ -91,6 +91,7 @@ For any queries or discussions, feel free to connect:
 | [0300-longest-increasing-subsequence](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0304-range-sum-query-2d-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0628-maximum-product-of-three-numbers) |
@@ -264,6 +265,7 @@ For any queries or discussions, feel free to connect:
 | [0221-maximal-square](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0486-predict-the-winner) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1402-reducing-dishes) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -312,6 +314,7 @@ For any queries or discussions, feel free to connect:
 | [0002-add-two-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0633-sum-of-square-numbers) |
 | [0910-smallest-range-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0910-smallest-range-ii) |
@@ -447,6 +450,7 @@ For any queries or discussions, feel free to connect:
 | [0002-add-two-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0025-reverse-nodes-in-k-group) |
+| [0486-predict-the-winner](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1922-count-good-numbers) |
 ## Combinatorics
 |  |
@@ -488,4 +492,8 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0098-validate-binary-search-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
