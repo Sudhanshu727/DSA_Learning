@@ -336,6 +336,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0300-longest-increasing-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0633-sum-of-square-numbers) |
@@ -460,6 +461,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0187-repeated-dna-sequences) |
+| [0222-count-complete-tree-nodes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0338-counting-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -484,6 +486,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0098-validate-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -494,6 +497,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0098-validate-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0700-search-in-a-binary-search-tree) |
 ## Game Theory
 |  |
