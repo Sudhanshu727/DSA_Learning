@@ -102,6 +102,7 @@ For any queries or discussions, feel free to connect:
 | [0724-find-pivot-index](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0904-fruit-into-baskets) |
 | [0910-smallest-range-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0910-smallest-range-ii) |
 | [0948-bag-of-tokens](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0948-bag-of-tokens) |
@@ -269,6 +270,7 @@ For any queries or discussions, feel free to connect:
 | [0300-longest-increasing-subsequence](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0877-stone-game) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1402-reducing-dishes) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -320,6 +322,7 @@ For any queries or discussions, feel free to connect:
 | [0486-predict-the-winner](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0910-smallest-range-ii) |
 | [1922-count-good-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -506,4 +509,5 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
