@@ -115,6 +115,7 @@ For any queries or discussions, feel free to connect:
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1402-reducing-dishes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1406-stone-game-iii) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1642-furthest-building-you-can-reach](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1642-furthest-building-you-can-reach) |
@@ -273,6 +274,7 @@ For any queries or discussions, feel free to connect:
 | [0877-stone-game](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0877-stone-game) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1406-stone-game-iii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Divide and Conquer
 |  |
@@ -324,6 +326,7 @@ For any queries or discussions, feel free to connect:
 | [0633-sum-of-square-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0910-smallest-range-ii) |
+| [1406-stone-game-iii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1406-stone-game-iii) |
 | [1922-count-good-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
@@ -510,4 +513,13 @@ For any queries or discussions, feel free to connect:
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
