@@ -246,14 +246,17 @@ For any queries or discussions, feel free to connect:
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0098-validate-binary-search-tree) |
 | [0207-course-schedule](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0207-course-schedule) |
+| [3310-remove-methods-from-project](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0207-course-schedule) |
+| [3310-remove-methods-from-project](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0207-course-schedule) |
+| [3310-remove-methods-from-project](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
