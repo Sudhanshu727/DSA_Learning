@@ -1,0 +1,13 @@
+class Solution {
+public:
+    int longestSubsequence(vector<int>& nums) {
+        int sum=0;
+        int n= nums.size();
+        bool all0=1;
+        for(int x:nums){
+            sum^=x;
+            all0 = all0 & (x==0);
+        }
+        return (all0)?0:n- (sum==0);
+    }
+};
