@@ -406,6 +406,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0345-reverse-vowels-of-a-string) |
@@ -472,6 +473,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0025-reverse-nodes-in-k-group) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1721-swapping-nodes-in-a-linked-list) |
