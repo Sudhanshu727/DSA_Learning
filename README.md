@@ -79,6 +79,7 @@ For any queries or discussions, feel free to connect:
 | [0048-rotate-image](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0057-insert-interval) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0119-pascals-triangle-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0135-candy) |
@@ -380,6 +381,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0503-next-greater-element-ii) |
@@ -397,6 +399,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0739-daily-temperatures) |
@@ -546,4 +549,8 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1406-stone-game-iii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
