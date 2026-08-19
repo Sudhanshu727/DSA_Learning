@@ -276,6 +276,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -337,6 +338,7 @@ For any queries or discussions, feel free to connect:
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0628-maximum-product-of-three-numbers) |
@@ -493,6 +495,7 @@ For any queries or discussions, feel free to connect:
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
