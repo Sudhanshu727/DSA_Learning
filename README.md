@@ -131,6 +131,7 @@ For any queries or discussions, feel free to connect:
 | [2270-number-of-ways-to-split-array](https://github.com/Sudhanshu727/DSA_Learning/tree/master/2270-number-of-ways-to-split-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Sudhanshu727/DSA_Learning/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sudhanshu727/DSA_Learning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -475,6 +476,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
