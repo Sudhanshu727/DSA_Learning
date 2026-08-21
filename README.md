@@ -257,11 +257,13 @@ For any queries or discussions, feel free to connect:
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0098-validate-binary-search-tree) |
 | [0207-course-schedule](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0207-course-schedule) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0207-course-schedule) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -531,6 +533,7 @@ For any queries or discussions, feel free to connect:
 | [0098-validate-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0700-search-in-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -542,6 +545,7 @@ For any queries or discussions, feel free to connect:
 | [0098-validate-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0700-search-in-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Game Theory
 |  |
 | ------- |
