@@ -79,6 +79,7 @@ For any queries or discussions, feel free to connect:
 | [0048-rotate-image](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0119-pascals-triangle-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -282,6 +283,7 @@ For any queries or discussions, feel free to connect:
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -459,6 +461,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0304-range-sum-query-2d-immutable) |
 | [1260-shift-2d-grid](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1260-shift-2d-grid) |
