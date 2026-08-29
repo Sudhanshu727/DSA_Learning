@@ -91,6 +91,7 @@ For any queries or discussions, feel free to connect:
 | [0215-kth-largest-element-in-an-array](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0304-range-sum-query-2d-immutable) |
@@ -178,6 +179,7 @@ For any queries or discussions, feel free to connect:
 | [0056-merge-intervals](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0628-maximum-product-of-three-numbers) |
@@ -203,6 +205,7 @@ For any queries or discussions, feel free to connect:
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0692-top-k-frequent-words) |
@@ -219,6 +222,7 @@ For any queries or discussions, feel free to connect:
 | ------- |
 | [0139-word-break](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0187-repeated-dna-sequences) |
+| [0229-majority-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0567-permutation-in-string) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -586,4 +590,8 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0084-largest-rectangle-in-histogram) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
