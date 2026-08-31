@@ -123,6 +123,7 @@ For any queries or discussions, feel free to connect:
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1402-reducing-dishes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1406-stone-game-iii) |
+| [1470-shuffle-the-array](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1470-shuffle-the-array) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1642-furthest-building-you-can-reach](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1642-furthest-building-you-can-reach) |
