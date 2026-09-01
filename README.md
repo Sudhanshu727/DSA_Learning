@@ -100,6 +100,7 @@ For any queries or discussions, feel free to connect:
 | [0503-next-greater-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0692-top-k-frequent-words) |
@@ -186,6 +187,7 @@ For any queries or discussions, feel free to connect:
 | [0451-sort-characters-by-frequency](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0767-reorganize-string) |
@@ -228,6 +230,7 @@ For any queries or discussions, feel free to connect:
 | [0229-majority-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0645-set-mismatch) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0767-reorganize-string) |
@@ -536,6 +539,7 @@ For any queries or discussions, feel free to connect:
 | [0222-count-complete-tree-nodes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0338-counting-bits) |
+| [0645-set-mismatch](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0645-set-mismatch) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
