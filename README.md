@@ -151,6 +151,7 @@ For any queries or discussions, feel free to connect:
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -348,6 +349,7 @@ For any queries or discussions, feel free to connect:
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3904-smallest-stable-index-ii) |
 ## Sliding Window
 |  |
 | ------- |
