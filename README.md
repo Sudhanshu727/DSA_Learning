@@ -81,6 +81,7 @@ For any queries or discussions, feel free to connect:
 | [0057-insert-interval](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0135-candy) |
@@ -324,6 +325,7 @@ For any queries or discussions, feel free to connect:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -572,6 +574,7 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -579,11 +582,13 @@ For any queries or discussions, feel free to connect:
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1448-count-good-nodes-in-binary-tree) |
