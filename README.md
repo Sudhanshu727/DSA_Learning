@@ -142,6 +142,7 @@ For any queries or discussions, feel free to connect:
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -248,6 +249,7 @@ For any queries or discussions, feel free to connect:
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -486,6 +488,7 @@ For any queries or discussions, feel free to connect:
 | ------- |
 | [1291-sequential-digits](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -537,6 +540,7 @@ For any queries or discussions, feel free to connect:
 | [0025-reverse-nodes-in-k-group](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0025-reverse-nodes-in-k-group) |
 | [0486-predict-the-winner](https://github.com/Sudhanshu727/DSA_Learning/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sudhanshu727/DSA_Learning/tree/master/3483-unique-3-digit-even-numbers) |
 ## Combinatorics
 |  |
 | ------- |
